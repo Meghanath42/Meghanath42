@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Meghanath42
 - 👀 I’m interested in Web and Mobile application development
-- 🌱 I’m currently learning Onymos and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
